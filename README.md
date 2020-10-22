@@ -12,7 +12,7 @@
 
 [Android基础](https://github.com/antares927/A-Small-Guide-For-Campus-Recruit-Interview/blob/main/5.%20%E5%AE%89%E5%8D%93.md)
 
-#### 实用资料（大部分知识也来源于此，以及牛客面经）
+**实用资料（大部分知识也来源于此，以及牛客面经）**
 
 https://github.com/labuladong/fucking-algorithm
 
